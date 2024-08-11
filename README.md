@@ -1,1 +1,2 @@
-# Booking-app
+# AptBooking
+AptBooking is your go-to platform for seamless, hassle-free appointment scheduling. Whether you're booking a dinner reservation, a spa day, or a business meeting, AptBooking offers a user-friendly interface that connects you with top services in just a few clicks. Our smart system ensures that you find the most convenient slots tailored to your preferences, making every booking experience effortless and efficient.
